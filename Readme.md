@@ -12,3 +12,8 @@ This is a starting project. The program itself is not important. The environment
 - The program should be managed by VCS (i.e. git)
 - The program should be hosted on a remote git platform (i.e. GitHub)
 
+## Building
+> javac Hello.java
+
+## Usage
+> java Hello
